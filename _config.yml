@@ -10,7 +10,7 @@ title: Danny Weng
 email: me@dannyweng.com
 description: > # this means to ignore newlines until "baseurl:"
   
-  Danny Weng's web site. Cyber Security Professional, IT Guru, The Passionate Programmer
+  Danny Weng's web site. Cyber Security Professional, IT Guru, Casual Programmer
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dannyweng.github.io" # the base hostname & protocol for your site
